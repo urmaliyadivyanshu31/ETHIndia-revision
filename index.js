@@ -18,7 +18,7 @@ async function run() {
           tokenId: "1",
           description: "What's special about dynamic NFT's is that we can change its state in which revise is helpful, hopefully will use it in future",
         },
-        [{ attack: "80" }, { color: "maroon" }, { stamina: "90" }],
+        [{ attack: "80" }, { color: "maroon" }, { stamina: "90" }, { style: "funky" }, { mind: "brilliant" }, { skill: "top-notch" }],
         collection.id
       );
     
