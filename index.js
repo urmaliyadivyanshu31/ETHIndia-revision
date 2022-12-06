@@ -14,9 +14,9 @@ async function run() {
         {
           image:
             "https://revise-testing.fra1.digitaloceanspaces.com/sample-collection/1.jpg",
-          name: "Star Lord",
+          name: "STAR CORD",
           tokenId: "1",
-          description: "This is a test description",
+          description: "What's special about dynamic NFT's is that we can change its state in which revise is helpful, hopefully will use it in future",
         },
         [{ attack: "80" }, { color: "maroon" }, { stamina: "90" }],
         collection.id
